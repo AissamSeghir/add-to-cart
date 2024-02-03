@@ -170,6 +170,8 @@ h2{
     font-weight: 900;
     padding: 15px;
     color: #a5a58d;
+    border: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .moins,.plus{
